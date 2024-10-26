@@ -24,7 +24,7 @@
  
 
 
-  <img src="https://github.com/user-attachments/assets/669726fd-c69e-4083-ab34-bdeaaf3cc979" width="33%" alt="Overview Image">
+  <img src="https://github.com/user-attachments/assets/669726fd-c69e-4083-ab34-bdeaaf3cc979" width="50%" alt="Overview Image">
 
 </div>
 
