@@ -51,13 +51,6 @@
 </ul>
 
 # Installation
-<ul>
-<li>Automates phone number extraction from Craigslist posts.</li>
-<li>Saves data (title, description, phone number, post date) to Excel for analysis.</li>
-<li>Uses Selenium for automated web interaction.</li>
-<li>Supports VPN handling to bypass geographical restrictions.</li>
-<li>Displays progress with a user-friendly GUI built with Tkinter.</li>
-</ul>
 
 
 ## Prerequesite
