@@ -1,6 +1,6 @@
 <div align='center'>
- 
-![Craigslist_phone_numbers_extractor (1)](https://github.com/user-attachments/assets/453bc5a1-041a-4970-927f-da4647e54c0f)
+
+![Craigslist_Phone_Numbers_extractor (4)](https://github.com/user-attachments/assets/38e8fc66-b9db-4c72-b700-a6f9d73b9fe7)
 
 </div>
 
@@ -24,7 +24,7 @@
  
 
 
-  <img src="https://github.com/user-attachments/assets/669726fd-c69e-4083-ab34-bdeaaf3cc979" width="50%" alt="Overview Image">
+  <img src="https://github.com/user-attachments/assets/669726fd-c69e-4083-ab34-bdeaaf3cc979" width="80%" alt="Overview Image">
 
 </div>
 
