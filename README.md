@@ -52,6 +52,12 @@
 <li>Displays progress with a user-friendly GUI built with Tkinter.</li>
 </ul>
 
+# Project Background
+This project was originally developed for <strong> MSV Properties. </strong>
+
+Created by <strong> Karim Merchaoui. </strong>
+
+
 # Installation
 
 
