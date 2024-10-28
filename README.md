@@ -15,7 +15,7 @@
 </div>
 
 
-## Who Would Benefit from This Tool:
+# Who Would Benefit from This Tool:
 
 <ul>
     <li><strong>Employers</strong>: Quickly identify potential job candidates by extracting contact information from listings.</li>
