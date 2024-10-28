@@ -1,6 +1,6 @@
 <div align='center'>
 
-![Craigslist_Phone_Numbers_extractor (4)](https://github.com/user-attachments/assets/38e8fc66-b9db-4c72-b700-a6f9d73b9fe7)
+![Craigslist_Phone_Numbers Extractor](https://github.com/user-attachments/assets/e2e343cd-288f-4bd0-97d6-75b8d15caa49)
 
 </div>
 
