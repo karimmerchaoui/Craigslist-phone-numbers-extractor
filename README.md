@@ -7,6 +7,14 @@
 # Overview
  This Python-based web scraping tool solves the problem of manually extracting phone numbers from Craigslist postings. It automates data collection by interacting with listings, gathering key details (title, description, post date, phone numbers), and saving them into Excel files for easy access and analysis.
 
+
+<div align='center'>
+ 
+  <img src="https://github.com/user-attachments/assets/2f71005d-50ce-4c38-a510-0570699959a5" width="60%" alt="Overview Image">
+
+</div>
+
+
 ## Who Would Benefit from This Tool:
 
 <ul>
@@ -20,13 +28,7 @@
 
 
 
-<div align='center'>
- 
 
-
-  <img src="https://github.com/user-attachments/assets/2f71005d-50ce-4c38-a510-0570699959a5" width="60%" alt="Overview Image">
-
-</div>
 
 
 # Technologies Used
