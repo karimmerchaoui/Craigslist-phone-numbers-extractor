@@ -12,7 +12,6 @@ import time
 from fake_useragent import UserAgent
 from vpn_manager import is_nordvpn_running
 from data_management import get_location
-
 class Scraper:
     def __init__(self, update_progress_callback,update_state_callback,log_message):
         self.update_progress = update_progress_callback
@@ -182,5 +181,5 @@ class Scraper:
                 b=0
                 driver.quit()
         self.update_progress(100)
-        self.log_message("SCRAPING FINISHED")
+        self.log_message("SCRAPING FINISHED !")
 
